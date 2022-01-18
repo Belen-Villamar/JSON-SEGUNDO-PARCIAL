@@ -1,0 +1,74 @@
+[
+    {
+        "cedula":"1315245769",
+        "nombres": "Belén Villamar",
+        "direccion": "Manta",
+        "telefono": "0997786150",
+        "correo_electronico": "belen.v@gmail.com"
+    },
+    {
+        "cedula":"1234356789",
+        "nombres": "Michael Villamar",
+        "direccion": "Montecristi",
+        "telefono": "0998432345",
+        "correo_electronico": "michaelv@gmail.com"
+    },
+    {
+        "cedula":"1319548293",
+        "nombres": "Nicole Echeverria",
+        "direccion": "Portoviejo",
+        "telefono": "0993549695",
+        "correo_electronico": "nicolee@gmail.com"
+    },
+    {
+        "cedula":"1250695843",
+        "nombres": "Diego Murillo",
+        "direccion": "Chone",
+        "telefono": "0993459856",
+        "correo_electronico": "diegoar@gmail.com"
+    },
+    {
+        "cedula":"1340495863",
+        "nombres": "Maria Voelcker",
+        "direccion": "Manta",
+        "telefono": "0967543246",
+        "correo_electronico": "mariavoelv@gmail.com"
+    },
+    {
+        "cedula":"1314255049",
+        "nombres": "Daniela Palma",
+        "direccion": "Montecristi",
+        "telefono": "0994358493",
+        "correo_electronico": "daniela3@gmail.com"
+    },
+    {
+        "cedula":"1334294593",
+        "nombres": "Chelsy Vera",
+        "direccion": "Portoviejo",
+        "telefono": "0994234459",
+        "correo_electronico": "chelsyy@gmail.com"
+    },
+    {
+        "cedula":"1334569873",
+        "nombres": "Alexander Villamar",
+        "direccion": "Manta",
+        "telefono": "0992472929",
+        "correo_electronico": "alexvill@gmail.com"
+    },
+    {
+        "cedula":"1213456786",
+        "nombres": "Caroline Lucas",
+        "direccion": "Manta",
+        "telefono": "0934567948",
+        "correo_electronico": "carolinee@gmail.com"
+    },
+    {
+        "cedula":"1312345609",
+        "nombres": "Jordy Acebo",
+        "direccion": "Manta",
+        "telefono": "0954678934",
+        "correo_electronico": "jordyaa@gmailcom"
+    }
+
+
+]
